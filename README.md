@@ -144,6 +144,7 @@ To enable logging:
 
 ## Shell Software Inc. Links
 
-* [Shell Software Inc. Google+ Official Page](https://plus.google.com/112119444427380215269)
+* [Shell Software Inc. Google+ Official Page](https://plus.google.com/+ShellSoftware)
+* [Shell Software Inc. YouTube Official Channel](https://www.youtube.com/c/ShellSoftware)
 * <a href="mailto:com.software.shell@gmail.com?subject=[UI Tools]: Proposals And Suggestions">Shell Software Inc. Gmail</a>
 * [Shell Software Inc. Twitter Official Page](https://twitter.com/shell_software)
