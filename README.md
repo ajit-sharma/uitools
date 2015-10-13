@@ -1,7 +1,7 @@
 # UI Tools Library for Android
 
 [![Build Status](https://travis-ci.org/shell-software/uitools.svg?branch=master)](https://travis-ci.org/shell-software/uitools)
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.shell-software/uitools.svg)](http://search.maven.org/#search|gav|1|g%3A%22com.github.shell-software%22%20AND%20a%3A%22uitools%22)
+[![Maven Central](https://img.shields.io/maven-central/v/com.shell-software/uitools.svg)](http://search.maven.org/#search|gav|1|g%3A%22com.shell-software%22%20AND%20a%3A%22uitools%22)
 
 ## Description
 
