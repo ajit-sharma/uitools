@@ -16,4 +16,5 @@
  * File created: 2015-04-04 15:28:50
  */
 
+rootProject.name = 'uitools-root'
 include ':uitools'
